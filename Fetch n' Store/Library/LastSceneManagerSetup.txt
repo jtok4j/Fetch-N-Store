@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Fetch'NStore/Scenes/Demo - Examples.unity
+  isLoaded: 1
+  isActive: 1
